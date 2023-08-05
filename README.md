@@ -26,7 +26,7 @@ python test.py ai
 
 ## Performance
 
-<img src="/Users/xanxus1111/Library/Application Support/typora-user-images/image-20230805143609926.png" alt="image-20230805143609926" style="zoom: 33%;" />
+<img src="./result.png" alt="result.png" style="zoom: 33%;" />
 
 
 
