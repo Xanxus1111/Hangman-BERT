@@ -26,7 +26,7 @@ python test.py ai
 
 ## Performance
 
-<img src="./result.png" alt="result.png" style="zoom: 33%;" />
+<img src="./result.png" alt="result.png" style="zoom: 10%;" />
 
 
 
